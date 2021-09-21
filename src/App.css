@@ -28,4 +28,10 @@ body {
 input[type="text"] {
   height: 75px;
   width: 250px;
+  background-color: black;
+  border: 0px;
+  color: white;
+  text-align: center;
+  font-size: 25px;
+  font-weight: 500;
 }
